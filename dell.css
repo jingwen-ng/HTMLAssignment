@@ -1,0 +1,86 @@
+nav div{
+    background-color: #0879FF;
+    width: 1250px;
+    height: 100px;
+  
+}
+
+nav div div ul {
+    height: 127px;
+    float: right;
+    /* text-align: right;  */
+    text-align: center;
+    padding: 10px;
+   
+   
+} 
+
+nav div div ul li{
+    display: inline-block;
+    color: white;
+    font-size: 18px;
+    margin: 10px;
+} 
+
+nav div div ul li tbody{
+    text-align: center;
+   
+} 
+
+nav div div div table tr td{
+    top: 50%;
+    left: 50%;
+    position: relative;
+}
+
+/* div {
+    
+    overflow: hidden;
+   
+  } */
+  table th{
+    font-size: 30px;
+    text-align: left;
+}
+
+table tr td ul li{
+    
+    display: inline-block;
+    margin: 0px;
+}
+
+footer table{
+    background-color:lightgray;
+    color: #0879FF;
+    width: 1250px;
+
+}
+
+footer table td#b01 {
+    color: black;
+    
+}
+
+.button1{
+    background-color:yellowgreen;
+    border-radius: 12px;
+    color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+footer div{
+    background: black;
+    width: 1230px;
+    height: 40px;
+    text-align: center;
+    padding: 10px;
+    border: none;
+}
+
+footer div ul li{
+    display: inline-block;
+    color: white;
+    margin: 10px;
+    
+    
+}
